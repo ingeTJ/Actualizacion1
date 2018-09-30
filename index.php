@@ -16,7 +16,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Login de usuario</title>
+	<title>Login de usuarios</title>
 	<link rel="stylesheet" type="text/css" href="librerias/bootstrap/css/bootstrap.css">
 	<script src="librerias/jquery-3.2.1.min.js"></script>
 	<script src="js/funciones.js"></script>
@@ -28,7 +28,7 @@
 			<div class="col-sm-4"></div>
 			<div class="col-sm-4">
 				<div class="panel panel-primary">
-					<div class="panel panel-heading">Sistema de ventas y almacen</div>
+					<div class="panel panel-heading">Sistema de venta y almacen</div>
 					<div class="panel panel-body">
 						<p>
 							<img src="img/logo.jpeg"  height="190">
