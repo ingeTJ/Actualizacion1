@@ -8,7 +8,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>ventas</title>
+	<title>venta</title>
 	<?php require_once "menu.php"; ?>
 </head>
 <body>
